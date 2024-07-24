@@ -29,3 +29,22 @@
   .OP{
     margin-bottom: 100PX;
   }
+  .image{
+    display: flex;
+  justify-content: space-evenly;
+
+  }
+  .core{
+    margin-top: 100px;
+    margin-left: 556px;
+  }
+  .cor{
+    margin-top: 50px;
+    margin-left: 556px;
+    margin-bottom:110px;
+  }
+  .image-name{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 50px;
+  }
