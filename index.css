@@ -1,7 +1,7 @@
     .hero{
         width: 100%;
         height: 100vh;
-        background-image: url(images/dark.jg);
+        /* background-image: url(images/dark.jg); */
 
     }
     #preloader{
@@ -19,3 +19,13 @@
     width: 97vw;   
     opacity: 90%;
     }
+    video{
+        width: 100%;
+        offset-inline-end: auto;
+    }
+  .logo{
+    width: 120px;
+  }
+  .OP{
+    margin-bottom: 100PX;
+  }
